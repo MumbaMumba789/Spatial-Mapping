@@ -1,0 +1,10 @@
+# ArcGIS Pro lock and temporary files
+*.lock
+*.ldb
+*.laccdb
+~$*
+*.sr.lock
+
+# ArcGIS Pro autosave and index caches
+*.atx
+*.aprx.bak
